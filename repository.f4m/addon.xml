@@ -19,7 +19,7 @@
   <dir minversion="19.0.0">
       <info compressed="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master/matrix/addons.xml</info>
       <checksum>https://raw.github.com/dregs1/dregs1.github.io/f4m/master/matrix/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/dregs1/dregs1.github.io/master/matrix</datadir>
+      <datadir zip="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master/matrix</datadir>
       <hashes>false</hashes>
   </dir>    
   </extension>
