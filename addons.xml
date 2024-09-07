@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.f4m" name="[COLOR red]f[/COLOR]4[COLOR black]m[/COLOR] [COLORcyan]Repository[/COLOR]" version="1.0.2" provider-name="[COLORchocolate]@by_black[COLORgold]_eagle[/COLOR]">
+<addon id="repository.f4m" name="[COLOR red]f[/COLOR]4[COLOR black]m[/COLOR] [COLORcyan]Repository[/COLOR]" version="1.02" provider-name="[COLORchocolate]@by_black[COLORgold]_eagle[/COLOR]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
   </requires>
