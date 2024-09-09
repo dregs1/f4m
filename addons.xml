@@ -6,21 +6,21 @@
   </requires>
   <extension point="xbmc.addon.repository" name="[COLOR red]F4m [COLOR cyan]Repositorio[/COLOR]">
     <dir>
-    <info compressed="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master/addons.xml</info>
-    <checksum>https://raw.github.com/dregs1/dregs1.github.io/f4m/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master</datadir>
+    <info compressed="true">https://raw.github.com/dregs1/f4m/master/addons.xml</info>
+    <checksum>https://raw.github.com/dregs1/f4m/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.github.com/dregs1/f4m/master</datadir>
     <hashes>false</hashes>
 </dir>
   <dir minversion="19.9.9">
-      <info compressed="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master/nexus/addons.xml</info>
+      <info compressed="true">https://raw.github.com/dregs1/f4m/master/nexus/addons.xml</info>
       <checksum>https://raw.github.com/dregs1/dregs1.github.io/master/nexus/f4m/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master/nexus</datadir>
+      <datadir zip="true">https://raw.github.com/dregs1/f4m/master/nexus</datadir>
       <hashes>false</hashes>
   </dir>
   <dir minversion="19.0.0">
-      <info compressed="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master/matrix/addons.xml</info>
+      <info compressed="true">https://raw.github.com/dregs1/f4m/master/matrix/addons.xml</info>
       <checksum>https://raw.github.com/dregs1/dregs1.github.io/master/matrix/f4m/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.github.com/dregs1/dregs1.github.io/f4m/master/matrix</datadir>
+      <datadir zip="true">https://raw.github.com/dregs1/f4m/master/matrix</datadir>
       <hashes>false</hashes>
   </dir>
   </extension>
