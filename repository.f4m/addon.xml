@@ -12,13 +12,13 @@
 </dir>
   <dir minversion="19.9.9">
       <info compressed="true">https://raw.github.com/dregs1/f4m/master/nexus/addons.xml</info>
-      <checksum>https://raw.github.com/dregs1/dregs1.github.io/master/nexus/f4m/addons.xml.md5</checksum>
+      <checksum>https://raw.github.com/dregs1/f4m/master/nexus/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/dregs1/f4m/master/nexus</datadir>
       <hashes>false</hashes>
   </dir>   
   <dir minversion="19.0.0">
       <info compressed="true">https://raw.github.com/dregs1/f4m/master/matrix/addons.xml</info>
-      <checksum>https://raw.github.com/dregs1/dregs1.github.io/master/matrix/f4m/addons.xml.md5</checksum>
+      <checksum>https://raw.github.com/dregs1/f4m/master/matrix/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/dregs1/f4m/master/matrix</datadir>
       <hashes>false</hashes>
   </dir>    
