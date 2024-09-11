@@ -22,7 +22,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.f4mTester" version="4.0.1" name="f4mTester" provider-name="Shani">
+<addon id="plugin.video.f4mTesters" version="4.0.1" name=".f4mTester-KODI19" provider-name="Shani">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="inputstream.ffmpegdirect"/>
@@ -31,7 +31,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">f4mTester</summary>
+        <summary lang="en">.f4mTester-KODI19</summary>
         <description></description>
         <platform>all</platform>
         <assets>
