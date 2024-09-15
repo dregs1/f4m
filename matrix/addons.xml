@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.f4mTester" version="4.2.2" name="f4mTester" provider-name="Joel">
+<addon id="plugin.video.f4mTester" version="4.2.3" name="f4mTester" provider-name="Joel">
     <requires>
         <import addon="script.module.simplejson" />
         <import addon="script.module.six" />
